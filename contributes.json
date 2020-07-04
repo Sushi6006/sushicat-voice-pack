@@ -15,6 +15,12 @@
             ]
         },
         {
+            "keywords": ["(", ")", "[", "]", "{", "}"],
+            "voices": [
+                "brackets.mp3"
+            ]
+        },
+        {
             "keywords": ["if"],
             "voices": [
                 "if-1.mp3",
