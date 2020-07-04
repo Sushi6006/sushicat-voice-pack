@@ -1,0 +1,83 @@
+{
+    "contributes": [
+        {
+            "keywords": ["def"],
+            "voices":[
+                "def-1.mp3",
+                "def-2.mp3"
+            ]
+        },
+        {
+            "keywords": ["for"],
+            "voices": [
+                "for-1.mp3",
+                "for-2.mp3"
+            ]
+        },
+        {
+            "keywords": ["if"],
+            "voices": [
+                "if-1.mp3",
+                "if-2.mp3"
+            ]
+        },
+        {
+            "keywords": ["for"],
+            "voices": [
+                "for-1.mp3",
+                "for-2.mp3"
+            ]
+        },
+        {
+            "keywords": ["try"],
+            "voices": [
+                "try-1.mp3",
+                "try-2.mp3"
+            ]
+        },
+        {
+            "keywords": ["while"],
+            "voices": [
+                "while.mp3"
+            ]
+        },
+        {
+            "keywords": ["import"],
+            "voices": [
+                "import-1.mp3",
+                "import-2.mp3"
+            ]
+        },
+        {
+            "keywords": ["print"],
+            "voices": [
+                "print-1.mp3",
+                "print-2.mp3"
+            ]
+        },
+        {
+            "keywords": ["return"],
+            "voices": [
+                "return-1.mp3",
+                "return-2.mp3"
+            ]
+        },
+        {
+            "keywords": ["$time_morning", "$time_before_noon", "$time_noon", ],
+            "voices": [
+                "stupid.mp3",
+                "what.mp3",
+                "annoyed.mp3"
+            ]
+        },
+        {
+            "keywords": ["$time_evening", "$time_midnight"],
+            "voices": [
+                "go-sleep.mp3",
+                "stupid.mp3",
+                "what.mp3",
+                "annoyed.mp3"
+            ]
+        }
+    ]
+}
