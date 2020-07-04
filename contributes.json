@@ -63,7 +63,7 @@
             ]
         },
         {
-            "keywords": ["$time_morning", "$time_before_noon", "$time_noon", ],
+            "keywords": ["$time_morning", "$time_before_noon", "$time_noon", "$time_each_hour"],
             "voices": [
                 "stupid.mp3",
                 "what.mp3",
